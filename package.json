@@ -10,7 +10,7 @@
   },
   "scripts": {
     "test": "node_modules/.bin/mocha test/specs/*.test.js --timeout 10000",
-    "test-single": "node_modules/.bin/mocha
+    "test-single": "node_modules/.bin/mocha"
   },
   "author": "Quality Engineering",
   "license": "ISC"
